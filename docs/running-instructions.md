@@ -48,7 +48,7 @@ There are two ways of inputting Canvas API tokens into our tools. Most of our to
    - Open the `.env` file with any application that can edit text _(like TextEdit or Notepad)_ Paste the token you copied from Canvas into the `.env`file (There will be an indicator in the file as to exactly where you should paste it)
    - Save the `.env` file after you've pasted in your token
 
-2. Open **Anaconda Navigator**, select the ▶ button next to **the-project** to run your environment. Then select **Open with Jupyter Notebook**, and that will launch the browser.
+2. Open **Anaconda Navigator**, select environments, select the ▶ button next to **the-project** to run your environment. Then select **Open with Jupyter Notebook**, and that will launch the browser.
 
    > - ⚠️ If you're running via the universal environment, click the ▶ button next to **canvas-universal-env** instead (but make sure the project supports it)
    > - ⚠️ Don't see the environment you are looking for? Double check that you have imported that environment in the [Configuring Environment](https://github.com/saud-learning-services/instructions-and-other-templates/blob/main/docs/environment-setup.md#configuring-environments) step.
